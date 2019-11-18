@@ -1,4 +1,4 @@
-AC_INIT([ncurses_tinker], [1.0])
+AC_INIT([bepboop], [1.0])
 AM_INIT_AUTOMAKE([foreign])
 LT_PREREQ([2.2])
 LT_INIT()
