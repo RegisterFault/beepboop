@@ -1,5 +1,6 @@
 AC_INIT([bepboop], [1.0])
 AM_INIT_AUTOMAKE([foreign])
+AM_MAINTAINER_MODE
 LT_PREREQ([2.2])
 LT_INIT()
 LT_OUTPUT()
